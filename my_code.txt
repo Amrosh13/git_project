@@ -2,5 +2,4 @@ This is the first line
 This is the second line
 Thi is the third line
 This is the fifth line
-
 adding new line at the end. the end is the 6th line
