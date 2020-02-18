@@ -1,6 +1,13 @@
 This is the first line
 This is the second line
 Thi is the third line
+1
+
+2
+2
+2
+2
+2
 This is the forth line as a new feature
 This is the fifth line
 adding new line at the end. the end is the 6th line
